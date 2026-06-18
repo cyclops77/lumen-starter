@@ -1,0 +1,17 @@
+{
+    "1": {"question": "Siapakah presiden pertama di indonesia", "answers": ["KH Abdurrahman Al Hakim", "Suainul Yaqin", "KH Gufron Al Syududu", "Djalaludin", "Soekarno"]},
+    "2": {"question": "Siapakah penemu kapal selam", "answers": ["Alexander GrahamBell", "Colombus", "Nahkoda Kapal", "Kay Rafless", "Autobahn Charless"]},
+    "3": {"question": "Apa ibu kota dari negara Jepang", "answers": ["Seoul", "Beijing", "Tokyo", "Bangkok", "Kuala Lumpur"]},
+    "4": {"question": "Planet manakah yang dijuluki sebagai Planet Merah", "answers": ["Bumi", "Venus", "Mars", "Jupiter", "Saturnus"]},
+    "5": {"question": "Apa nama samudra terluas di dunia", "answers": ["Samudra Atlantik", "Samudra Hindia", "Samudra Pasifik", "Samudra Arktik", "Samudra Selatan"]},
+    "6": {"question": "Siapakah penulis novel Laskar Pelangi", "answers": ["Dewi Lestari", "Andrea Hirata", "Pramoedya Ananta Toer", "Chairil Anwar", "Tere Liye"]},
+    "7": {"question": "Berapakah hasil dari 15 dikali 4", "answers": ["50", "55", "60", "65", "70"]},
+    "8": {"question": "Apa bahasa resmi yang digunakan di Brasil", "answers": ["Spanyol", "Inggris", "Portugis", "Prancis", "Italia"]},
+    "9": {"question": "Hewan apakah yang dikenal sebagai raja hutan", "answers": ["Harimau", "Gajah", "Singa", "Serigala", "Beruang"]},
+    "10": {"question": "Apa unsur kimia dengan simbol O", "answers": ["Oksigen", "Osmium", "Emas", "Perak", "Ozon"]},
+    "11": {"question": "Benua manakah yang memiliki luas wilayah terbesar", "answers": ["Afrika", "Eropa", "Amerika", "Asia", "Australia"]},
+    "12": {"question": "Siapakah penemu bola lampu pijar", "answers": ["Alexander Graham Bell", "Nikola Tesla", "Thomas Alva Edison", "Isaac Newton", "Albert Einstein"]},
+    "13": {"question": "Apa nama rumah adat dari provinsi Sumatera Barat", "answers": ["Joglo", "Rumah Gadang", "Honai", "Panggung", "Tongkonan"]},
+    "14": {"question": "Berapakah jumlah provinsi di Indonesia saat ini (tahun 2026)", "answers": ["33", "34", "38", "40", "42"]},
+    "15": {"question": "Apa nama alat untuk mengukur suhu", "answers": ["Barometer", "Termometer", "Higrometer", "Anemometer", "Spidometer"]}
+  };
