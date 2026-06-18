@@ -1,17 +1,152 @@
 {
-    "1": {"question": "Siapakah presiden pertama di indonesia", "answers": ["KH Abdurrahman Al Hakim", "Suainul Yaqin", "KH Gufron Al Syududu", "Djalaludin", "Soekarno"]},
-    "2": {"question": "Siapakah penemu kapal selam", "answers": ["Alexander GrahamBell", "Colombus", "Nahkoda Kapal", "Kay Rafless", "Autobahn Charless"]},
-    "3": {"question": "Apa ibu kota dari negara Jepang", "answers": ["Seoul", "Beijing", "Tokyo", "Bangkok", "Kuala Lumpur"]},
-    "4": {"question": "Planet manakah yang dijuluki sebagai Planet Merah", "answers": ["Bumi", "Venus", "Mars", "Jupiter", "Saturnus"]},
-    "5": {"question": "Apa nama samudra terluas di dunia", "answers": ["Samudra Atlantik", "Samudra Hindia", "Samudra Pasifik", "Samudra Arktik", "Samudra Selatan"]},
-    "6": {"question": "Siapakah penulis novel Laskar Pelangi", "answers": ["Dewi Lestari", "Andrea Hirata", "Pramoedya Ananta Toer", "Chairil Anwar", "Tere Liye"]},
-    "7": {"question": "Berapakah hasil dari 15 dikali 4", "answers": ["50", "55", "60", "65", "70"]},
-    "8": {"question": "Apa bahasa resmi yang digunakan di Brasil", "answers": ["Spanyol", "Inggris", "Portugis", "Prancis", "Italia"]},
-    "9": {"question": "Hewan apakah yang dikenal sebagai raja hutan", "answers": ["Harimau", "Gajah", "Singa", "Serigala", "Beruang"]},
-    "10": {"question": "Apa unsur kimia dengan simbol O", "answers": ["Oksigen", "Osmium", "Emas", "Perak", "Ozon"]},
-    "11": {"question": "Benua manakah yang memiliki luas wilayah terbesar", "answers": ["Afrika", "Eropa", "Amerika", "Asia", "Australia"]},
-    "12": {"question": "Siapakah penemu bola lampu pijar", "answers": ["Alexander Graham Bell", "Nikola Tesla", "Thomas Alva Edison", "Isaac Newton", "Albert Einstein"]},
-    "13": {"question": "Apa nama rumah adat dari provinsi Sumatera Barat", "answers": ["Joglo", "Rumah Gadang", "Honai", "Panggung", "Tongkonan"]},
-    "14": {"question": "Berapakah jumlah provinsi di Indonesia saat ini (tahun 2026)", "answers": ["33", "34", "38", "40", "42"]},
-    "15": {"question": "Apa nama alat untuk mengukur suhu", "answers": ["Barometer", "Termometer", "Higrometer", "Anemometer", "Spidometer"]}
+  "1": {
+    "question": "<p>Berapakah hasil dari 12 × 8 ?</p>",
+    "answers": [
+      "<p>86</p>",
+      "<p>94</p>",
+      "<p>96</p>",
+      "<p>102</p>",
+      "<p>108</p>"
+    ]
+  },
+  "2": {
+    "question": "<p>Hasil dari 144 ÷ 12 adalah ...</p>",
+    "answers": [
+      "<p>10</p>",
+      "<p>11</p>",
+      "<p>12</p>",
+      "<p>13</p>",
+      "<p>14</p>"
+    ]
+  },
+  "3": {
+    "question": "<p>Berapakah nilai dari 15² ?</p>",
+    "answers": [
+      "<p>200</p>",
+      "<p>215</p>",
+      "<p>225</p>",
+      "<p>235</p>",
+      "<p>245</p>"
+    ]
+  },
+  "4": {
+    "question": "<p>Jika x = 7, maka nilai dari 3x + 5 adalah ...</p>",
+    "answers": [
+      "<p>24</p>",
+      "<p>26</p>",
+      "<p>28</p>",
+      "<p>30</p>",
+      "<p>32</p>"
+    ]
+  },
+  "5": {
+    "question": "<p>Sebuah persegi memiliki panjang sisi 9 cm. Berapakah luasnya?</p>",
+    "answers": [
+      "<p>72 cm²</p>",
+      "<p>81 cm²</p>",
+      "<p>90 cm²</p>",
+      "<p>99 cm²</p>",
+      "<p>108 cm²</p>"
+    ]
+  },
+  "6": {
+    "question": "<p>Berapakah hasil dari 7 + 9 × 4 ?</p>",
+    "answers": [
+      "<p>43</p>",
+      "<p>36</p>",
+      "<p>31</p>",
+      "<p>64</p>",
+      "<p>28</p>"
+    ]
+  },
+  "7": {
+    "question": "<p>Nilai dari 2³ × 5 adalah ...</p>",
+    "answers": [
+      "<p>20</p>",
+      "<p>30</p>",
+      "<p>40</p>",
+      "<p>50</p>",
+      "<p>60</p>"
+    ]
+  },
+  "8": {
+    "question": "<p>Seorang pedagang memiliki 120 buah jeruk dan menjual 35 buah. Berapa sisa jeruknya?</p>",
+    "answers": [
+      "<p>75</p>",
+      "<p>80</p>",
+      "<p>85</p>",
+      "<p>90</p>",
+      "<p>95</p>"
+    ]
+  },
+  "9": {
+    "question": "<p>Berapa keliling persegi panjang dengan panjang 12 cm dan lebar 8 cm?</p>",
+    "answers": [
+      "<p>32 cm</p>",
+      "<p>36 cm</p>",
+      "<p>40 cm</p>",
+      "<p>44 cm</p>",
+      "<p>48 cm</p>"
+    ]
+  },
+  "10": {
+    "question": "<p>Nilai dari 5/8 jika diubah ke bentuk desimal adalah ...</p>",
+    "answers": [
+      "<p>0.50</p>",
+      "<p>0.625</p>",
+      "<p>0.75</p>",
+      "<p>0.80</p>",
+      "<p>0.875</p>"
+    ]
+  },
+  "11": {
+    "question": "<p>Berapa hasil dari 250 - 89 ?</p>",
+    "answers": [
+      "<p>151</p>",
+      "<p>161</p>",
+      "<p>171</p>",
+      "<p>181</p>",
+      "<p>191</p>"
+    ]
+  },
+  "12": {
+    "question": "<p>Sebuah segitiga memiliki alas 10 cm dan tinggi 8 cm. Berapa luasnya?</p>",
+    "answers": [
+      "<p>30 cm²</p>",
+      "<p>35 cm²</p>",
+      "<p>40 cm²</p>",
+      "<p>45 cm²</p>",
+      "<p>50 cm²</p>"
+    ]
+  },
+  "13": {
+    "question": "<p>Berapakah FPB dari 24 dan 36?</p>",
+    "answers": [
+      "<p>6</p>",
+      "<p>8</p>",
+      "<p>10</p>",
+      "<p>12</p>",
+      "<p>18</p>"
+    ]
+  },
+  "14": {
+    "question": "<p>Berapakah KPK dari 6 dan 8?</p>",
+    "answers": [
+      "<p>12</p>",
+      "<p>18</p>",
+      "<p>24</p>",
+      "<p>36</p>",
+      "<p>48</p>"
+    ]
+  },
+  "15": {
+    "question": "<p>Perhatikan gambar berikut.</p><img src='https://cdn.britannica.com/54/4754-050-1F59FBDB/triangle-lettering-vertices-sides-angles-addition-one.jpg'> <p>Jika panjang alas segitiga adalah 6 cm dan tingginya 4 cm, berapakah luas segitiga tersebut?</p>",
+    "answers": [
+      "<p>10 cm²</p>",
+      "<p>12 cm²</p>",
+      "<p>14 cm²</p>",
+      "<p>16 cm²</p>",
+      "<p>18 cm²</p>"
+    ]
+  }
 }
